@@ -7,7 +7,6 @@ Hailuo AI is an innovative AI-powered productivity tool developed by MiniMax, de
 - Usage
 - Examples
 - Limitations
-- Contributing
 
 ## Features
 
